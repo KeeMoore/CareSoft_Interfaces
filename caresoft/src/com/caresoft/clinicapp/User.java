@@ -1,3 +1,4 @@
+//worked with Rayven, Elvyn, LaNasha, Tyra, Thien
 package com.caresoft.clinicapp;
 
 public class User {
